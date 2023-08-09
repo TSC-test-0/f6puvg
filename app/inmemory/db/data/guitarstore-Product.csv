@@ -1,0 +1,6 @@
+ID;productName;productDescription;price;targetAudience_ID;warehouse_ID;discount_ID
+32afe774-a6fd-4e41-8afa-b231933ee1d3;Fender American Stratocaster;Classic American-made Stratocaster with alder body and maple neck;1200.00;6ade7755-73ce-4b69-bbaf-3feafb21bfc7;89d629ea-60ce-48e0-bdc0-c9ad33661eb4;76dbe450-008b-4c2c-86be-fc4971b4dbab
+910b525f-6118-452e-8e47-bc23e5e7c161;Gibson Les Paul Standard;Iconic guitar with mahogany body and rosewood fingerboard;2500.00;6ade7755-73ce-4b69-bbaf-3feafb21bfc7;89d629ea-60ce-48e0-bdc0-c9ad33661eb4;fd048b3a-21c4-41e0-90ae-123e1f4f3d1e
+5d41a460-0513-4941-b768-a9318f7fe8ba;Yamaha FG800;Affordable and reliable acoustic guitar for beginners;200.00;a11e1b8c-47e3-4f2c-bb64-b7c3348f50c8;a750df64-a9a8-4618-9c71-677aed5a9442;ca62b60c-5e31-43e4-9d4b-37d417bfd5ef
+67dc21f8-2c23-4226-a118-d996533e9e6d;Martin D-28;High-quality acoustic guitar for professional players;3000.00;6ade7755-73ce-4b69-bbaf-3feafb21bfc7;89d629ea-60ce-48e0-bdc0-c9ad33661eb4;4866ee19-1367-49e4-b9d8-8250ff55aaf9
+316ec764-62cb-4e92-a02e-44cdfcb51fe4;Ibanez GRG121DX;Great electric guitar for intermediate players;400.00;1ada1f01-25b1-4f10-be1f-24a1052827b7;a750df64-a9a8-4618-9c71-677aed5a9442;75228eeb-3fc8-4ce8-80a2-285b25b95605
